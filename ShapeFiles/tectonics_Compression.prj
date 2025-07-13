@@ -1,0 +1,1 @@
+GEOGCS["GCS_mars_mola",DATUM["D_Mars_2000",SPHEROID["Mars_Mola",3396000.0,0.0]],PRIMEM["Reference_Meridian",0.0],UNIT["Degree",0.0174532925199433]]
